@@ -202,7 +202,7 @@ img {
 .widget-curso__informacion,
 .curso__informacion,
 .curso__label {
-    
+
     font-size: 2rem;
 }
 
@@ -259,3 +259,6 @@ footer {
 .curso:last-of-type {
     border: none;
 }
+
+/* Entrada de Blog */
+
